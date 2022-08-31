@@ -1,0 +1,10 @@
+{
+  "objects": [
+    {"name": "Fillial 1",
+      "orders": "3"},
+    {"name": "Fillial 2",
+      "orders": "2"},
+    {"name": "Fillial 3",
+      "orders": "1"}
+  ]
+}
